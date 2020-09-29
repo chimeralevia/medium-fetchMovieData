@@ -16,7 +16,7 @@ const FetchMovieData = (endpoint, param) => {
             "headers": {
                 "content-type": "application/octet-stream",
                 "x-rapidapi-host": "imdb-internet-movie-database-unofficial.p.rapidapi.com",
-                "x-rapidapi-key": "a50b1ae9a3msh05442c847aef18cp152c83jsnb8ae1c892285",
+                "x-rapidapi-key": /*enter your api key here*/"",
                 "useQueryString": true
             }
         }
